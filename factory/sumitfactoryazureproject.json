@@ -1,0 +1,9 @@
+{
+	"name": "sumitfactoryazureproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4b8026a7-519b-454a-b771-e06fed972a15",
+		"tenantId": "7f10782d-2c7c-4b9a-b7cd-0ee05ab6bd38"
+	}
+}
